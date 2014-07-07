@@ -1,0 +1,21 @@
+[
+{
+  "modid": "PoshMagic",
+  "name": "Posh Magic",
+  "description": "This is yet another magic mod.",
+  "version": "1.0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "SantaCreeperz"
+  ],
+  "credits": "To all of you who downloaded this mod!",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
