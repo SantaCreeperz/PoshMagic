@@ -3,7 +3,9 @@
 #################
 eclipse/
 out/
-
+*.ipr
+*.iml
+*.iws
 *.pydevproject
 .project
 .metadata
